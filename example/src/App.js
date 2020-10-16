@@ -1,10 +1,15 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-line-width-picker'
-import 'react-line-width-picker/dist/index.css'
+import LineWidthPicker from 'react-line-width-picker'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <LineWidthPicker
+      background={'#00000090'}
+      hoverBorder='1px solid #ff0000'
+      hoverBackground='#00000090'
+    />
+  )
 }
 
 export default App
