@@ -15,12 +15,12 @@ npm install --save react-line-width-picker
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-line-width-picker'
+import LineWidthPicker from 'react-line-width-picker'
 import 'react-line-width-picker/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <LineWidthPicker />
   }
 }
 ```
