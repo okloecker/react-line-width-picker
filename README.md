@@ -47,6 +47,28 @@ class Example extends Component {
  * onClick: a function that is called with a single argument, the line width value from lineWidths, when user clicks a hovered line
  * onChange: a function that is called with the hovered over lineWidth when user hovers over a line (enters it)
 
+### Develop
+
+Watch and build bundle:
+```
+yarn start
+```
+
+In separate terminal run dev server:
+```
+cd example
+yarn start
+```
+
+Run storybook:
+```
+yarn storybook
+```
+or 
+```
+npm run storybook
+```
+
 ## License
 
 MIT © [okloecker](https://github.com/okloecker)
