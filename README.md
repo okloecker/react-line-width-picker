@@ -15,7 +15,7 @@ npm install --save react-line-width-picker
 ## Intro
 
 <p align="center">
-  <img width="146" src="https://ghcdn.rawgit.org/okloecker/react-line-width-chooser/master/media/demo.svg">
+  <img width="146" src="https://ghcdn.rawgit.org/okloecker/react-line-width-chooser/master/media/demo.png">
 </p>
 
 ## Usage
